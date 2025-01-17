@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/bank-of-baroda-candlestick.git
+   https://github.com/Jahnavi123-kakumani/Reading-data-from-Bank-of-Baroda-CSV-file-and-plotting-Candlestick-pattern-in-Python.git
    ```
 
 2. Navigate to the project directory:
